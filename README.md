@@ -1,4 +1,10 @@
 <div align="center">
+
+  <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aftertherainnn&label=(⁠≧⁠▽⁠≦⁠)&color=7591bf" alt="Profile Views Counter" />
+</p>
+
+
 <img src="https://files.catbox.moe/kerzkl.png" alt="<3" width=400>
 <br> ‎ ‎ ‎ ‎‎‎ ‎ ‎ ‎ren ‎ ‎ ‎ ‎‎‎ ‎ ‎ ‎/ ‎ ‎ ‎‎‎ ‎  wifies‎ ‎⠀  ‎ ‎ ‎ ‎‎‎Tmasc‎ ⠀ ‎ ‎ isfj‎ ‎‎‎ ‎ ‎ ‎⠀
   <br>  ‎ ‎ ‎ ‎‎‎ ‎ ‎ jinza fictionkin ‎ ‎ ‎ ‎‎‎ ‎ ‎ ⠀ziku nikuni yume ✦‎ ‎ ‎‎‎ ‎ ‎ ‎⠀ ⠀  
@@ -7,7 +13,8 @@
   
   [ata](https://rekveismm.atabook.org/) [rentry](https://rentry.co/cheesecakedotcakey)
   [shared rentry](https://rentry.co/our-stage) [straw](https://yarachin4i.straw.page/)
-
+    <br>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31lgojzpcp67ypj2ol6skzjcwzpa&cover_image=false&theme=novatorem&show_offline=true&background_color=ffffff&interchange=true&profanity=false&hide_remaster=false&bar_color=000000&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31lgojzpcp67ypj2ol6skzjcwzpa&redirect=true)
   <br> 
   
   .<table>

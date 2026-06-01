@@ -1,7 +1,7 @@
 <div align="center">
 
   <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aftertherainnn&label=(⁠≧⁠▽⁠≦⁠)&color=7591bf" alt="Profile Views Counter" />
+  <img src="https://komarev.com/ghpvc/?username=pawrachinai&label=(⁠≧⁠▽⁠≦⁠)&color=7591bf" alt="Profile Views Counter" />
 </p>
 
 
